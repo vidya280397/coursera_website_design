@@ -1,0 +1,25 @@
+header{
+   background-color: #87CEFA; /*background colour for header*/
+   color: #4B0082; /*text colour for content inside header*/
+ }
+
+a{
+     background-color: #C0C0C0; /*background colour for all hyperlinks*/
+     color: #00008B; /* text colour for all hyperlinks*/
+   }
+ H1, H2{               /*Expanding the scope of H1 and H2 for styling, separated by comma*/
+   text-transform: uppercase; /*Convert the text into upper-case for H1 and H2 heading*/
+ }
+ H1{
+   text-align: center /* Aligning the content inside H1 as center*/
+ }
+ H2{
+   color: #2F4F4F; /* Text colour for content inside H2*/
+ }
+ section{
+   background-color: #E6E6FA; /*background colour for section*/
+   color: #800000; /*text colour for content inside section*/
+ }
+ img{
+   display: none; /*removes the display of images from the page*/
+ }
